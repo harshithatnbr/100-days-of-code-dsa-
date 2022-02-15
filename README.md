@@ -1,4 +1,4 @@
 # 100-days-of-code-dsa-
 
-I will daily update my progress of dsa here.
+I will daily update my progress of DSA here.
 ### Week1(sorting) 
